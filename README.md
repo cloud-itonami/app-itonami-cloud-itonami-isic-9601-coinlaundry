@@ -10,6 +10,7 @@ a role-suffix satellite of
 **ISIC 9601's `includes` list names "coin-operated laundry activities"** —
 read from this workspace's spec mirror (`cloud-itonami/org-un-isic`,
 `data/classes/9601.json`) on 2026-08-08.
+Source: ISIC Rev.4, United Nations Statistics Division. © United Nations.
 
 The parent actor implements an **attended** dry cleaner: `:garment/intake`
 → `:careplan/verify` → `:certification/screen` →
