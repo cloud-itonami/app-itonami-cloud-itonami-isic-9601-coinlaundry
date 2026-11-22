@@ -9,7 +9,9 @@
   ## What is actually regulated, and what is not
 
   ISIC 9601's `includes` names \"coin-operated laundry activities\"
-  (measured from `cloud-itonami/org-un-isic`, 2026-08-08). But a coin
+  (measured from `cloud-itonami/org-un-isic`, 2026-08-08).
+  Source: ISIC Rev.4, United Nations Statistics Division. © United Nations.
+  But a coin
   laundry is **not** a クリーニング所: the operator does not receive,
   process and return anyone's laundry, so the 届出 regime that binds an
   attended dry cleaner does not bind it in the same way.

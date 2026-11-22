@@ -7,7 +7,9 @@
 ## Context
 
 ISIC 9601's `includes` names "coin-operated laundry activities"
-(measured from `cloud-itonami/org-un-isic`, 2026-08-08). The parent actor
+(measured from `cloud-itonami/org-un-isic`, 2026-08-08).
+Source: ISIC Rev.4, United Nations Statistics Division. © United Nations.
+The parent actor
 implements an attended dry cleaner and has no unattended machine, no cash
 handling and no abandoned-property op. The gap was found while
 scaffolding the three missing cleaning industries and recorded in
